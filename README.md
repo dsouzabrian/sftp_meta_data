@@ -8,7 +8,7 @@ Install this library in a [virtualenv](https://virtualenv.pypa.io/en/latest/) us
 
 With virtualenv, it's possible to install this library without needing system install permissions, and without clashing with the installed system dependencies.
 
-### Windo
+### Windows
 ```bash
 D:\>pip install virtualenv
 D:\>virtualenv <your-env>
